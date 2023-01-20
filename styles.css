@@ -1,2 +1,12 @@
+#cla{
+    border: 2px solid gray;
 
+}
+#mla{
+    background-color: aqua;
+}
+tr,td{
+    border:solid green;
+    border-collapse: collapse;
+}
 /* Your CSS Code here. */
